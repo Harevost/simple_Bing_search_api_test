@@ -1,7 +1,7 @@
 import requests
 
-subscription_key = "0faa9a50b481444680b3932aa0917a73"
-# subscription_key_2 = "9afedc73c34442c5875aca536b692ec2"
+subscription_key = "xxxx" # your Bing search API key
+# subscription_key_2 = "xxxx"
 assert subscription_key
 
 search_url = "https://api.cognitive.microsoft.com/bing/v7.0/search"
